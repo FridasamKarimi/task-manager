@@ -10,7 +10,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/tasks" element={<Tasks />} />
-        <Route path="/Data" element={<Tasks />} />
+        <Route path="/Data" element={<Data />} />
       </Routes>
     </Layout>
   );
