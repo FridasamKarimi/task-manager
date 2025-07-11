@@ -1,5 +1,5 @@
 import { StrictMode } from 'react'
-import { ThemeProvider } from './contexts/ThemeContext.js'
+import { ThemeProvider } from './contexts/ThemeContext.jsx'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
 import './index.css'
